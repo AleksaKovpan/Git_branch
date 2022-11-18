@@ -1,0 +1,4 @@
+Preconditions: Xiaomi Redmi Note 8, Android 11
+Titlle: Установить приложение
+ER: Приложение установливается
+Status: Passed
